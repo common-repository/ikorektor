@@ -1,0 +1,6 @@
+td .ik-opt {width: 150px; float: left}
+td .ik-opt:last-child {float: right}
+td textarea {width: 100%; height: 80px}
+.form-table {max-width: 600px}
+p.description {font-size: 12px !important; clear: both}
+input[type=number] {width: 50px}
